@@ -1,0 +1,31 @@
+/* Estilo para la cabecera */
+header {
+    background-color: #31e5eb9d;
+    color: rgb(28, 64, 71);
+    text-align: center;
+    padding: 30px;
+}
+
+
+/* Estilo cuerpo */
+body {
+    background-image: url('imagenprueba2.1.avif'); /* ruta imagen de fondo */
+    background-size: cover;
+    background-position: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, sans-serif; 
+    color: #141716;
+}
+
+
+section {
+    margin-bottom: 20px;
+}
+
+/* Estilo para los párrafos */
+p {
+    font-size: 20px;
+    color: #1912dd;
+    line-height: 1.5;
+}
+
+
